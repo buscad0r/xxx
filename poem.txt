@@ -5,5 +5,6 @@ pink
 orange
 UNICORN
 Green
+INDIGO
 blue
 These are the  colors of my poem
