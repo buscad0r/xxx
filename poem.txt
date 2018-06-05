@@ -3,6 +3,7 @@ purple
 Yellow
 pink 
 orange
+UNICORN
 Green
 blue
 These are the  colors of my poem
